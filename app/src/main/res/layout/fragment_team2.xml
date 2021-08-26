@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Team2">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="180dp"
+        android:layout_height="200dp"
+        android:layout_marginLeft="105dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="125dp"
+        android:background="@drawable/mosque"
+        android:text="" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="110dp"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="238dp"
+        android:fontFamily="@font/allerta"
+        android:text="SixtyDome Mosque"
+        android:textSize="18sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="0dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="270dp"
+        android:fontFamily="@font/candal"
+        android:text="Introduction:"
+        android:textSize="15sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="0dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="300dp"
+        android:text="        The Sixty Dome Mosque (Bengali: ষাট গম্বুজ মসজিদ Shaṭ Gombuj Moshjid; more commonly known as Shait Gambuj Mosque or Saith Gunbad Masjid), is a mosque in Bangladesh. It is a part of the Mosque City of Bagerhat, a UNESCO World Heritage Site.\n\n        It is the largest mosque in Bangladesh from the sultanate period (1204-1576). It was built during the Bengal Sultanate by Ulugh Khan Jahan, the governor of the Sundarbans. It has been described as 'one of the most impressive Muslim monuments in the whole of the Indian subcontinent.'" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="510dp"
+        android:fontFamily="@font/candal"
+        android:text="Location:"
+        android:textSize="15sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="540dp"
+        android:text="  Baghethat" />
+
+</FrameLayout>

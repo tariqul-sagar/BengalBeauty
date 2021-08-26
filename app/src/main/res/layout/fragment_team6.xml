@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Team6">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="180dp"
+        android:layout_height="200dp"
+        android:layout_marginLeft="105dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="125dp"
+        android:background="@drawable/ban"
+        android:text="" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="115dp"
+        android:layout_marginLeft="110dp"
+        android:layout_marginTop="238dp"
+        android:fontFamily="@font/allerta"
+        android:text="Sundarban Forest"
+        android:textSize="18sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="0dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="270dp"
+        android:fontFamily="@font/candal"
+        android:text="Introduction:"
+        android:textSize="15sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="0dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="310dp"
+        android:text="        Sundarbans, The largest single block of tidal halophytic mangrove forest in the world, located in the southwestern part of Bangladesh.The Bangla word ban means forest, and the name Sundarban was coined either from the forests of Sundari tree ie Sundari-ban.\n\n        Besides the spectacular Royal Bengal Tiger, the other notable mammalian fauna are Spotted deer, Barking deer, Rhesus macaque, Jungle cat, Leopard cat, the Indian porcupine, Otter, and wild boar." />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="490dp"
+        android:fontFamily="@font/candal"
+        android:text="Location:"
+        android:textSize="15sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="520dp"
+        android:text="  Khulna" />
+
+</FrameLayout>
